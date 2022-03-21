@@ -1,0 +1,10 @@
+.jenis img{
+    width: 350px; 
+    height: 350px;
+    object-fit: cover;
+}
+
+.jenis a{
+    color: black;
+    text-decoration: none;
+}
